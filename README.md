@@ -13,12 +13,10 @@ Aby uzywac nalezy:
 - Jenkins
 
 ## Umiejętności/Kwalifikacje
-• Znajomość języków oprogramowania - nie wiem :)
-• Umiejętność czytania dokumentacji technicznej w języku japońskiego
-• Bardzo dobra znajomość języka japońskiego
-• Znajomość testów automatycznych
-• Umiejętność raportowania
-• Znajomość języków skryptowych
-
+- Znajomość języków oprogramowania - nie wiem :)
+- Znajomość języków skryptowych
+- Znajomość testów automatycznych 
+- Bardzo dobra znajomość języka japońskiego 
+- Umiejętność czytania dokumentacji technicznej w języku japońskiego
 
 Copyright by TESTER TEAM
